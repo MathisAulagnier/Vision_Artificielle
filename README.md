@@ -12,7 +12,7 @@ Ce dépôt présente quatre projets réalisés dans le cadre du cours Vision Art
 
 ## **Contenu du dépôt**  
 
-### 1. **Auto-Encodeur Débruiteur**  
+### Projet n°1 : **Auto-Encodeur Débruiteur**  
 ![Denoising Autoencoder](Auto-encodeur/output.png)  
 - **Description** : Développement d’un auto-encodeur basé sur des CNN pour débruiter des images du dataset MNIST et améliorer la performance d’un modèle de classification.  
 - **Points clés** :  
@@ -24,7 +24,7 @@ Ce dépôt présente quatre projets réalisés dans le cadre du cours Vision Art
 
 ---
 
-### 2. **Détection de Pneumonie par CNN et Transfert Learning**  
+### Projet n°2 : **Détection de Pneumonie par CNN et Transfert Learning**  
 ![Pneumonia Detection](TransfertLearning_ResNet50/radios.png)  
 - **Description** : Ce projet compare les performances d’un modèle CNN entraîné de zéro et d’un modèle pré-entraîné (ResNet50) pour la détection de pneumonie à partir de radiographies thoraciques.  
 - **Points clés** :  
@@ -36,7 +36,7 @@ Ce dépôt présente quatre projets réalisés dans le cadre du cours Vision Art
 
 ---
 
-### 3. **Analyse et Segmentation d’Images Microscopiques**  
+### Projet n°3 : **Analyse et Segmentation d’Images Microscopiques**  
 ![Microscopic Image Analysis](Segmentation/output.png)  
 - **Description** : Segmentation et analyse de grains dans des images microscopiques pour extraire des caractéristiques et faciliter leur classification automatique.  
 - **Points clés** :  
@@ -48,7 +48,7 @@ Ce dépôt présente quatre projets réalisés dans le cadre du cours Vision Art
 
 ---
 
-### 4. **Détection des Changements dans une Scène Intérieure**  
+### Projet n°4 : **Détection des Changements dans une Scène Intérieure**  
 ![Scene Change Detection](DetectionChangementsScene/output.png)  
 - **Description** : Ce projet détecte les objets déplacés ou mal rangés dans des pièces d’un appartement en conditions d’éclairage variées. Les changements pertinents sont mis en valeur à l’aide de bounding boxes.  
 - **Points clés** :  
