@@ -56,4 +56,33 @@ Ce dépôt contient quatre projets réalisés dans le cadre du cours **Vision Ar
 - [Dossier du projet](./DetectionChangementsScene)  
 
 ---
+
+## **Installation et Utilisation**
+
+1. **Cloner le dépôt** :  
+Clonez ce dépôt en utilisant la commande suivante : 
+```bash
+git clone https://github.com/MathisAulagnier/Vision_Artificielle.git
+```
+2. **Installer les dépendances** :
+Installez toutes les dépendances nécessaires avec pip :
+```bash
+pip install -r requirements.txt
+```
+
+3. **Exécuter un projet** : 
+Pour lancer un projet, exécutez le fichier principal du projet (généralement main.py) :
+```bash
+python <nom_dossier_projet>/main.py
+```
+
+**Remarque** : Chaque projet contient soit un fichier main.py, soit un notebook Jupyter pour exécuter le code.
+Si le projet utilise un notebook Jupyter, vous devrez d’abord installer Jupyter. Voici les commandes pour l’installer et démarrer un notebook :
+```bash
+pip install jupyter
+jupyter notebook
+```
+
+
+
 Mathis Aulagnier
