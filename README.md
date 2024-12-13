@@ -1,7 +1,7 @@
 # **Projets de Vision Artificielle (8INF804)**  
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)  
-![Langages](https://img.shields.io/badge/Languages-Python-blue)  
-![Licence](https://img.shields.io/badge/License-MIT-lightgrey)  
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Langages](https://img.shields.io/badge/Languages-Python-blue)
+![Licence](https://img.shields.io/badge/License-MIT-lightgrey) 
 
 Ce dépôt présente quatre projets réalisés dans le cadre du cours Vision Artificielle (8INF804) à l’UQAC. Chaque projet explore des concepts clés de la vision par ordinateur, et un rapport détaillé est disponible pour chaque projet, offrant une description approfondie des méthodologies et résultats. Voici une brève présentation de ces projets :
 1. Auto-encodeur Débruiteur : Ce projet propose un auto-encodeur conçu pour débruiter des images. Il permet d'améliorer les performances des modèles de classification en éliminant le bruit présent dans les images.
