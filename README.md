@@ -15,7 +15,8 @@ Ce dépôt présente quatre projets réalisés dans le cadre du cours Vision Art
 ### Projet n°1 : **Auto-Encodeur Débruiteur**  
 ![Denoising Autoencoder](Auto-encodeur/output.png)  
 - **Description** : Développement d’un auto-encodeur basé sur des CNN pour débruiter des images du dataset MNIST et améliorer la performance d’un modèle de classification.  
-- **Points clés** :  
+- **Points clés** :
+  - Compréhension théorique des auto-encodeurs.     
   - Extraction de caractéristiques à partir de l’espace latent.  
   - Comparaison de fonctions de perte (MSE, L1, SmoothL1).  
   - Résilience testée face à différents types de bruit (Poisson, Speckle, périodique).  
@@ -28,7 +29,8 @@ Ce dépôt présente quatre projets réalisés dans le cadre du cours Vision Art
 ![Pneumonia Detection](TransfertLearning_ResNet50/radios.png)  
 - **Description** : Ce projet compare les performances d’un modèle CNN entraîné de zéro et d’un modèle pré-entraîné (ResNet50) pour la détection de pneumonie à partir de radiographies thoraciques.  
 - **Points clés** :  
-  - Fine-tuning de ResNet50 pour une tâche de classification binaire.  
+  - Fine-tuning de ResNet50 pour une tâche de classification binaire.
+  - Création et entrainement d'un CNN.
   - Analyse approfondie des performances (F1-score, matrice de confusion).  
   - Gestion des données déséquilibrées.  
 - **Compétences** : PyTorch, transfert learning, vision médicale.  
@@ -54,7 +56,7 @@ Ce dépôt présente quatre projets réalisés dans le cadre du cours Vision Art
 - **Points clés** :  
   - Utilisation des espaces de couleur LAB et de l’algorithme CLAHE pour normaliser les images.  
   - Identification des changements par calcul de différence absolue entre les images.  
-  - Filtrage des détections pour exclure les faux positifs.  
+  - Filtrage des détections pour exclure les faux positifs.
 - **Compétences** : OpenCV, traitement d’images, analyse de scènes.  
 - [Dossier du projet](./DetectionChangementsScene)  
 
